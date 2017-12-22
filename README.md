@@ -1,1 +1,3 @@
 # SQLHomewk
+
+SQL Queries Schema
